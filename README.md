@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rcamarano
-- 👀 I’m interested in JS, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in HTML, CSS, JavaScript, React, Redux. 
+- 🌱 I’m currently learning React, Redux.
+- 💞️ I’m looking to collaborate on any DEV project.
 - 📫 How to reach me ...
 
 <!---
