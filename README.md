@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any frontend, backend or fullstack project.
 - 📫 How to reach me:
   my email: roger@camarano.net || rogeriocamarano@gmail.com
+
   my LinkedIn: https://www.linkedin.com/in/rogerio-camarano-dev/
 
 <!---
