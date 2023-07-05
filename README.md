@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @rcamarano
  
-- 👀 I’m interested in HTML, CSS, JavaScript, React, Redux, TypeScript, MySQL, MSC APIs, ORM. 
+- 👀 I’m interested in HTML, CSS, JavaScript, TypeScript, React, Next, MySQL and learning Python. 
 - 🌱 I’m a fullstack DEV focused in frontend, UI and UX.
 - 💞️ I’m looking to collaborate on any frontend, backend or fullstack project.
 - 👀 Please che out my online DEV portifolio at www.camarano.net
