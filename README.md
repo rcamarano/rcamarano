@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @rcamarano
+## 👋 Hi, I’m Rogério Camarano, fullstack web developer!
  
 - 👀 I’m interested in HTML, CSS, JavaScript, TypeScript, React, Next, MySQL and learning Python. 
 - 🌱 I’m a fullstack DEV focused in frontend, UI and UX.
