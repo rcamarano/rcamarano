@@ -25,7 +25,7 @@
  [![Camarano's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamarano)](https://github.com/rcamarano/github-readme-stats)
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josealvesg&show_icons=true&count_private=true&hide_border=true&title_color=B026FF&icon_color=B026FF&text_color=c9d1d9&bg_color=0d1117" alt="Rigério Camarano github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rcamarano&show_icons=true&count_private=true&hide_border=true&title_color=B026FF&icon_color=B026FF&text_color=c9d1d9&bg_color=0d1117" alt="Rigério Camarano github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcamarano&layout=compact&hide_border=true&title_color=B026FF&text_color=B026FF&bg_color=0d1117" />
 </div>
   Hope we get in touch soon!
