@@ -1,3 +1,5 @@
+<img width=100% src="./Linkedin-bg.png"/>
+
 ## 👋 Hi, I’m Rogério Camarano, fullstack web developer!
  
 - 👀 I’m interested in HTML, CSS, JavaScript, TypeScript, React, Next, MySQL and learning Python. 
