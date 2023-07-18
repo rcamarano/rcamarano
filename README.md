@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/rogerio-camarano-dev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcamarano&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </section>
 
 <div align="center"
