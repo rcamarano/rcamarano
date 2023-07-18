@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcamarano&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcamarano&repo=github-readme-stats)](https://github.com/rcamarano/github-readme-stats)
 
 ## 👋 Hi, I’m Rogério Camarano, fullstack web developer!
  
