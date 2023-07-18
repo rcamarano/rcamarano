@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcamarano&repo=github-readme-stats)](https://github.com/rcamarano/github-readme-stats)
-
 ## 👋 Hi, I’m Rogério Camarano, fullstack web developer!
  
 - 👀 I’m interested in HTML, CSS, JavaScript, TypeScript, React, Next, MySQL and learning Python. 
