@@ -1,4 +1,6 @@
-<img width=100% src="./Linkedin-bg.png"/>
+  <a href="https://www.camarano.net">
+  <img  width=100% src="./Linkedin-bg.png"/>
+  </a>
 
 ## 👋 Hi, I’m Rogério Camarano, fullstack web developer!
  
