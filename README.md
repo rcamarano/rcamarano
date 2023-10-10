@@ -1,4 +1,4 @@
-  <a href="https://www.camarano.net" target="blank">
+  <a href="https://www.camarano.net" target="_blank">
   <img  width=100% src="./Linkedin-bg.png"/>
   </a>
 
